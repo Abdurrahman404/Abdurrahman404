@@ -109,15 +109,6 @@ Currently, I'm working toward becoming an industry-ready **Software Engineer** b
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abdurrahhman404\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdurrahhman404\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahhman404\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 # 🌎 Connect With Me
 
