@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Abdur Rahman
 
 ### 💻 Software Engineering Student | Backend Developer | Full Stack Developer | AI Enthusiast
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm an IT undergraduate from Sri Lanka passionate about building scalable software and solving real-world problems through technology.
