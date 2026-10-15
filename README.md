@@ -14,7 +14,7 @@ I learn primarily by **building projects, experimenting with new technologies, a
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Sc. Applied Information Technology undergraduate at **SLTC Research University**
+* 🎓 Bachelor of Applied Information Technology undergraduate at **SLTC Research University**
 * 💻 Full-stack developer working with **React, Node.js, Express and MongoDB**
 * 🤖 Interested in **AI-assisted software development, LLM applications and automation**
 * 📱 Experience building mobile applications with **Flutter & Firebase**
